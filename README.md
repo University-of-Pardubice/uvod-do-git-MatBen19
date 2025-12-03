@@ -1,2 +1,3 @@
 # Software engineering
-Empty project for trainining git
+Git is essential for life of a software engineer
+I hope it won't be too complicated :)
